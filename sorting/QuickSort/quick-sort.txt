@@ -1,6 +1,11 @@
+** Overview **
 - A divide and conquer algorith like the merge sort
 - Uses recursion to divide data
 - Generally performs better than the merge sort O(n log n)
 - Operates in place of the data
 - Worst case is O(n^2) where the data is mostly sorted already
 
+** Implementation **
+- A pivot position is picked
+- Points that are at the wrong side of the pivot value are picked and moved to their respective sides
+- A point where the array is to be brocken is figured out.
