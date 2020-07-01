@@ -1,0 +1,5 @@
+
+Sorting is done by comparing every 2 elements of an array and swapping them.
+ - The algorithm loops through all the items in the array
+ - Has a time complexity of O(n^2)
+ - Not considered to be a practical solution

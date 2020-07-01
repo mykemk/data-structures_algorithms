@@ -1,0 +1,8 @@
+ """
+ - Divide and conquer algorithm
+ - Breaks a dataset into individual parts and merges them
+ - Uses recursion to operate on datasets
+ - Performs well on large datasets
+ - Has a performance of O( n log n) time complexity
+
+ """

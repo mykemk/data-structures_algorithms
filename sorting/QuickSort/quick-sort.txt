@@ -1,0 +1,6 @@
+- A divide and conquer algorith like the merge sort
+- Uses recursion to divide data
+- Generally performs better than the merge sort O(n log n)
+- Operates in place of the data
+- Worst case is O(n^2) where the data is mostly sorted already
+
