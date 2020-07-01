@@ -1,0 +1,10 @@
+'''
+- A stack is a collection that supports push and pop operations
+- The last item pushed is the first one popped
+- Pushing and popping in a stack is a constant time operation
+
+ **Common Stacks use cases **
+ - To provide back-tracking features e.g browser back stack
+ - For expression processing
+'''
+

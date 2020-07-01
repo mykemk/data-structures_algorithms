@@ -1,0 +1,11 @@
+'''
+- Consists of key:value pairs
+- Uses the Hash function 
+
+**pros **
+- Key-to-value pairs are unique
+- They are typically very fast in large datasets
+**cons**
+- If the dataset is small,arrays are ussually more efficient
+- Entries are not ordered in any predictable way
+'''

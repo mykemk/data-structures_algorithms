@@ -1,0 +1,9 @@
+'''
+ - Supports adding and removing items.
+ - The first item added is the first item removed.
+ - Adding and removing items in a queue are constant time operations
+
+ **Queues common use cases **
+ - Order processing
+ - Messaging
+'''
