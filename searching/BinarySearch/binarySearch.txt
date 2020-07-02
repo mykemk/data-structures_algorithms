@@ -1,0 +1,13 @@
+"""
+- Used for searching ordered lists
+- Has a time complexity of O(log n)
+
+** Searching procedure **
+- Start with two indexes at the beginning and end of the list
+- Calculate the midpoint using the two indexes.
+- Check if the value at the midpoint is the required value.
+- If it is the required value, quit and return the number,
+- If not the required value, and is less than the required value, advance the lower index to the midpoint position and calculate a new midpoint
+- If midpoint is greater tha the required value, reduce the upper index to the midpoint position and again recalculate a new midpoint  
+
+"""
